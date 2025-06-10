@@ -24,7 +24,7 @@ A full-stack URL Shortener web application built using **Next.js**, **JavaScript
 
 ---
 
-##🗂 Project Structure
+## 🗂 Project Structure
 
 ``` plaintext
 /
@@ -39,7 +39,7 @@ A full-stack URL Shortener web application built using **Next.js**, **JavaScript
 └── package.json        # Project metadata
 ```
 ---
-##⚙️ How It Works
+## ⚙️ How It Works
 1.The user submits a long URL via the input form.
 
 2.An API route checks if the URL already exists in the database.
@@ -51,7 +51,7 @@ A full-stack URL Shortener web application built using **Next.js**, **JavaScript
 5.When a short URL is visited, it triggers a redirect based on database lookup.
 
 ---
-##📦 Future Improvements
+## 📦 Future Improvements
 -🔐 Add authentication for user-specific URL management
 
 -📊 Add click tracking analytics
@@ -61,7 +61,7 @@ A full-stack URL Shortener web application built using **Next.js**, **JavaScript
 -🛡️ Add rate limiting and validation for better security
 
 ---
-##📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
 
