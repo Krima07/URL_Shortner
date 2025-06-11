@@ -19,8 +19,8 @@ A full-stack URL Shortener web application built using **Next.js**, **JavaScript
 
 - **Frontend**: Next.js (App Router), React, JavaScript, Tailwind CSS  
 - **Backend**: Next.js API Routes, MongoDB (via MongoDB Node.js client)  
-- **Database**: MongoDB Atlas (cloud-hosted)  
-- **Deployment**: Vercel (or any Next.js-compatible host)
+- **Database**: MongoDB 
+  
 
 ---
 
